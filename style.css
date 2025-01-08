@@ -1223,7 +1223,7 @@
   @media screen and (min-width:250px) and (max-width:480px) {
       
       .footer p{
-          font-size: .9em;
+          font-size: 1.2em;
       }
       
       .footer p span{
@@ -1236,7 +1236,7 @@
    /* Tablet View */
   @media screen and (min-width:481px) and (max-width:768px) {
       .footer p{
-          font-size: 1.1em;
+          font-size: 1.2em;
       }
       
       .footer p span{
