@@ -1165,6 +1165,7 @@
           width: 100vw;
           margin: 0px;
           padding: 10px;
+          justify-content: center;
       
    
       }
@@ -1191,6 +1192,7 @@
           flex-direction: column;
           height: 80vh;
           width: 80vw;
+          justify-content: center;
       }
       .creations-desc{
           margin-left: 0px;
