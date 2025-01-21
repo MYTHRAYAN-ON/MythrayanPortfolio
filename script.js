@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
   }, {
-    threshold: 0.2 // Trigger when 50% of the section is visible
+    threshold: 0.1 // Trigger when 50% of the section is visible
   });
 
   // Observe the creations section
